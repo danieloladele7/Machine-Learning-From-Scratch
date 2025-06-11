@@ -121,10 +121,30 @@ F --> G[Agentic AI]
 
 ## Resources
 
--
--
+List of github repos that I am currently going over:
 
-> "What I cannot create, I do not understand." - Richard Feynman
+- [Machine Learning for Beginners - A Curriculum](https://github.com/microsoft/ML-For-Beginners)
+- [ML-From-Scratch](https://github.com/eriklindernoren/ML-From-Scratch)
+- [Machine Learning from Scratch](https://github.com/DorsaRoh/Machine-Learning)
+- [Large Language Model Course](https://github.com/mlabonne/llm-course)
+- [Complete Machine Learning Package](https://github.com/Nyandwi/machine_learning_complete)
+- [Machine Learning from Scratch](https://github.com/DorsaRoh/Machine-Learning)
+- [Start Machine Learning in 2025 - Become an expert for free!](https://github.com/louisfb01/start-machine-learning)
+- [ML YouTube Courses](https://github.com/dair-ai/ML-YouTube-Courses)
+- [mml-book.github.io](https://github.com/mml-book/mml-book.github.io)
+- [500 + 𝗔𝗿𝘁𝗶𝗳𝗶𝗰𝗶𝗮𝗹 𝗜𝗻𝘁𝗲𝗹𝗹𝗶𝗴𝗲𝗻𝗰𝗲 𝗣𝗿𝗼𝗷𝗲𝗰𝘁 𝗟𝗶𝘀𝘁 𝘄𝗶𝘁𝗵 𝗰𝗼𝗱𝗲](https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code)
+- [MIT Deep Learning Book (beautiful and flawless PDF version)](https://github.com/janishar/mit-deep-learning-book-pdf)
+- [Awesome Production Machine Learning](https://github.com/EthicalML/awesome-production-machine-learning)
+- [Minimum Viable Study Plan for Machine Learning Interviews](https://github.com/khangich/machine-learning-interview)
+- [Machine Learning cheatsheets for Stanford's CS 229](https://github.com/afshinea/stanford-cs-229-machine-learning)
+- [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
+- [Machine Learning & Deep Learning Tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials)
+- [Machine Learning Zoomcamp](https://github.com/DataTalksClub/machine-learning-zoomcamp)
+- [Machine Learning Containers for Jetson and JetPack](https://github.com/dusty-nv/jetson-containers)
+- [Learning-Deep-Learning Paper notes](https://github.com/patrick-llgc/Learning-Deep-Learning)
+- []()
+
+> _"What I cannot create, I do not understand." - Richard Feynman_
 
 <!-- ### Key Improvements: -->
 <!-- 1. **Progressive Learning** - Ordered from fundamentals to advanced systems -->
