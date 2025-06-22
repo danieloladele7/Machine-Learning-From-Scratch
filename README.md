@@ -16,7 +16,8 @@ This repository decomposes AI/ML concepts and state-of-the-art systems into fund
 │   ├── Linear_Algebra
 │   ├── Probability_Theory
 │   ├── Bayesian_Statistics
-│   └── Optimization_Methods
+│   ├── Optimization_Methods
+│   └── ...
 │
 ├── 1_Machine_Learning/
 │   ├── Supervised_Learning
@@ -25,43 +26,50 @@ This repository decomposes AI/ML concepts and state-of-the-art systems into fund
 │   ├── Unsupervised_Learning
 │   │   ├── Clustering
 │   │   └── Dimensionality_Reduction
-│   └── Ensemble_Methods
+│   ├── Ensemble_Methods
+│   └── ...
 │
 ├── 2_Deep_Learning/
 │   ├── Neural_Networks
 │   ├── CNN_Architectures
 │   ├── RNN_Variants
-│   └── Attention_Mechanisms
+│   ├── Attention_Mechanisms
+│   └── ...
 │
 ├── 3_Computer_Vision/
 │   ├── Image_Classification
 │   ├── Object_Detection
 │   ├── Semantic_Segmentation
-│   └── 3D_Vision
+│   ├── 3D_Vision
+│   └── ...
 │
 ├── 4_NLP_LLMs/
 │   ├── Embeddings
 │   ├── Seq2Seq_Models
 │   ├── Transformer_Architecture
-│   └── Prompt_Engineering
+│   ├── Prompt_Engineering
+│   └── ...
 │
 ├── 5_Reinforcement_Learning/
 │   ├── MDPs
 │   ├── Value_Based_Methods
 │   ├── Policy_Based_Methods
-│   └── Multi_Agent_RL
+│   ├── Multi_Agent_RL
+│   └── ...
 │
 ├── 6_Robotics/
 │   ├── Sensor_Fusion
 │   │   ├── Kalman_Filters
 │   │   └── Particle_Filters
 │   ├── SLAM
-│   └── Motion_Planning
+│   ├── Motion_Planning
+│   └── ...
 │
 ├── 7_Agentic_Systems/
 │   ├── Agent_Architectures
 │   ├── Memory_Models
-│   └── Tool_Use_Reasoning
+│   ├── Tool_Use_Reasoning
+│   └── ...
 │
 ├── SOTA_Model_Breakdowns/
 │   ├── Vision/
@@ -75,9 +83,10 @@ This repository decomposes AI/ML concepts and state-of-the-art systems into fund
 │   ├── Multimodal/
 │   │   ├── CLIP
 │   │   └── GPT-4o
-│   └── Robotics/
-│       ├── RT-X
-│       └── Tesla_Optimus_System
+│   ├── Robotics/
+│   │   ├── RT-X
+│   │   └── Tesla_Optimus_System
+│   └── ...
 │
 ├── datasets/
 └── utils/
@@ -142,6 +151,8 @@ List of github repos that I am currently going over:
 - [Machine Learning Zoomcamp](https://github.com/DataTalksClub/machine-learning-zoomcamp)
 - [Machine Learning Containers for Jetson and JetPack](https://github.com/dusty-nv/jetson-containers)
 - [Learning-Deep-Learning Paper notes](https://github.com/patrick-llgc/Learning-Deep-Learning)
+- [MLOps Road Map](https://github.com/marvelousmlops/mlops-roadmap-2024)
+- [Machine Learning Collection](https://github.com/aladdinpersson/Machine-Learning-Collection)
 - []()
 
 > _"What I cannot create, I do not understand." - Richard Feynman_
